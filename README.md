@@ -17,7 +17,7 @@
    *I had never studied programming before so everything was new and sometimes not clear. But additional materials and a little time helped to absorb the information.*
 
 ___
-## Linux CLI, and HTTP
+## Linux CLI and HTTP
 
 **Linux Survival (4 modules):**
   
