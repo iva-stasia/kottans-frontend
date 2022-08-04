@@ -1,5 +1,5 @@
 # Hello :cat:
- 
+
  ## Git та GitHub
  
  **Introduction to Git and GitHub:**
@@ -32,3 +32,24 @@ ___
  *The exercises were easy and fun. Before that, I used the command line at the "copy-paste command from the Internet" level. Now I understand how it works and I have already used some commands when working with Git.*
 
  *Articles about HTTP were quite difficult due to the many new terms. So I had to look for additional information all the time. Everything became a little clearer, but I still plan to return to this to understand better.*
+
+ ___
+## Git Collaboration
+
+**Introduction to Git and GitHub:**
+
+[Week 3](https://github.com/iva-stasia/kottans-frontend/blob/main/task_git_collaboration/3_1_1.png)
+
+[Week 4](https://github.com/iva-stasia/kottans-frontend/blob/main/task_git_collaboration/3_1_2.png)
+
+*After practicing on the first Git task and learning the command line, the information from the course was much easier to understand. The theory seems clear. I already use some commands when I work with Git and GitHub.*
+
+**learngitbranching.js.org:**
+
+[Main](https://github.com/iva-stasia/kottans-frontend/blob/main/task_git_collaboration/3_2_1.png)
+
+[Remote](https://github.com/iva-stasia/kottans-frontend/blob/main/task_git_collaboration/3_2_2.png)
+
+*After completing the course and studying additional materials, the exercises seemed quite understandable and interesting.*
+
+___
