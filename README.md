@@ -2,13 +2,13 @@
 
  ## Git та GitHub
  
- **Introduction to Git and GitHub:**
+ ### **Introduction to Git and GitHub**
   
  [Week 1](https://github.com/iva-stasia/kottans-frontend/blob/main/task_git_github/0_1_1.png)
  
  [Week 2](https://github.com/iva-stasia/kottans-frontend/blob/main/task_git_github/0_1_2.png)
  
- **learngitbranching.js.org:**
+ ### **learngitbranching.js.org**
   
   [Introduction Sequence](https://github.com/iva-stasia/kottans-frontend/blob/main/task_git_github/0_2_1.png)
   
@@ -19,7 +19,7 @@
 ___
 ## Linux CLI and HTTP
 
-**Linux Survival (4 modules):**
+### **Linux Survival (4 modules)**
   
  [Quiz 1](https://github.com/iva-stasia/kottans-frontend/blob/main/task_linux_cli/1_1_1.png)
 
@@ -36,7 +36,7 @@ ___
  ___
 ## Git Collaboration
 
-**Introduction to Git and GitHub:**
+### **Introduction to Git and GitHub**
 
 [Week 3](https://github.com/iva-stasia/kottans-frontend/blob/main/task_git_collaboration/3_1_1.png)
 
@@ -44,7 +44,7 @@ ___
 
 *After practicing on the first Git task and learning the command line, the information from the course was much easier to understand. The theory seems clear. I already use some commands when I work with Git and GitHub.*
 
-**learngitbranching.js.org:**
+### **learngitbranching.js.org**
 
 [Main](https://github.com/iva-stasia/kottans-frontend/blob/main/task_git_collaboration/3_2_1.png)
 
@@ -53,3 +53,19 @@ ___
 *After completing the course and studying additional materials, the exercises seemed quite understandable and interesting.*
 
 ___
+## Intro to HTML and CSS
+
+### **Course HTML, CSS, and Javascript for Web Developers**
+
+[Week 1](https://github.com/iva-stasia/kottans-frontend/blob/main/task_html_css_intro/4_1_1.png)
+
+[Week 2](https://github.com/iva-stasia/kottans-frontend/blob/main/task_html_css_intro/4_1_2.png)
+
+*I have come across HTML and CSS before only in computer science classes. However, I remembered that with the help of these languages we create the structure and style of the site. Therefore, almost everything that I learned from the video was new and understandable at the same time. The course gave me a good theoretical understanding of these languages.*
+
+### **Learn HTML**
+### **Learn CSS**
+
+[Progress](https://github.com/iva-stasia/kottans-frontend/blob/main/task_html_css_intro/4_2.png)
+
+*Taking courses on Codecademy was much more interesting than just listening to lectures. A big plus of this format is the visibility of changes. Sometimes it was quite boring because of the simplicity of the exercises. Now I feel the need to consolidate the acquired knowledge on more complex practical tasks.*
