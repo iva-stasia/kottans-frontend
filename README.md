@@ -1,6 +1,6 @@
 # Hello :cat:
 
- ## Git та GitHub
+ ## 0. Git та GitHub
  
  ### **Introduction to Git and GitHub**
   
@@ -17,7 +17,7 @@
    *I had never studied programming before so everything was new and sometimes not clear. But additional materials and a little time helped to absorb the information.*
 
 ___
-## Linux CLI and HTTP
+## 1. Linux CLI and HTTP
 
 ### **Linux Survival (4 modules)**
   
@@ -34,7 +34,7 @@ ___
  *Articles about HTTP were quite difficult due to the many new terms. So I had to look for additional information all the time. Everything became a little clearer, but I still plan to return to this to understand better.*
 
  ___
-## Git Collaboration
+## 2. Git Collaboration
 
 ### **Introduction to Git and GitHub**
 
@@ -53,7 +53,7 @@ ___
 *After completing the course and studying additional materials, the exercises seemed quite understandable and interesting.*
 
 ___
-## Intro to HTML and CSS
+## 3. Intro to HTML and CSS
 
 ### **Course HTML, CSS, and Javascript for Web Developers**
 
@@ -69,3 +69,19 @@ ___
 [Progress](https://github.com/iva-stasia/kottans-frontend/blob/main/task_html_css_intro/4_2.png)
 
 *Taking courses on Codecademy was much more interesting than just listening to lectures. A big plus of this format is the visibility of changes. Sometimes it was quite boring because of the simplicity of the exercises. Now I feel the need to consolidate the acquired knowledge on more complex practical tasks.*
+
+___
+## 4. Responsive Web Design
+
+### **Flexbox**
+
+[Froggy Game](https://github.com/iva-stasia/kottans-frontend/blob/main/task_responsive_web_design/froggy_game.png)
+
+*I didn't understand Flexbox right away. I was a little confused that we set some properties to the container and others for children. So I went through the Zombie Flex game to better understand how each property works. Then I found additional information and practiced a little. After that, I figured out this topic and can use it in my projects.*
+
+### **Grid Layout**
+
+[Grid Garden](https://github.com/iva-stasia/kottans-frontend/blob/main/task_responsive_web_design/grid_garden.png)
+
+*Grid was easier to understand than Flexbox for me. Although I still use the cheatsheet, because I couldn't remember all the available options, especially the short forms. Now I remember only the most basic ones. I will watch the rest as needed.\
+At this step, I also decided to practice on Freecodecamp both in Grid and Flex and in CSS in general. After that, I was able to start the popup task and already used the knowledge gained there.*
