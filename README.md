@@ -85,3 +85,34 @@ ___
 
 *Grid was easier to understand than Flexbox for me. Although I still use the cheatsheet, because I couldn't remember all the available options, especially the short forms. Now I remember only the most basic ones. I will watch the rest as needed.\
 At this step, I also decided to practice on Freecodecamp both in Grid and Flex and in CSS in general. After that, I was able to start the popup task and already used the knowledge gained there.*
+___
+## 5. HTML & CSS Practice
+
+[Demo](https://iva-stasia.github.io/html-css-popup/) | [Code base](https://github.com/iva-stasia/html-css-popup)
+
+*This is my first HTML and CSS project.\
+The most valuable thing for me is the experience of solving the problems that I encountered while completing the task.*
+___
+## 6. JS Basics
+
+### **Introduction to JS**
+
+[Introduction to JS](https://github.com/iva-stasia/kottans-frontend/blob/main/task_js_basics/coursera_intro_js.png)
+
+*This is my first exposure to JS, so I started with a [video](https://www.youtube.com/watch?v=CxgOKJh4zWE) from another author who teaches more clearly to me. Also studied the basic topics in the [book](https://uk.javascript.info/). After that, I watched this course to consolidate my knowledge.*
+
+### **FreeCodeCamp exercises**
+
+[Basic JavaScript](https://github.com/iva-stasia/kottans-frontend/blob/main/task_js_basics/basic_js.png)
+
+[ES6 Challenges](https://github.com/iva-stasia/kottans-frontend/blob/main/task_js_basics/es6.png)
+
+[Basic Data Structures](https://github.com/iva-stasia/kottans-frontend/blob/main/task_js_basics/basic_data_structures.png)
+
+[Basic Algorithm Scripting](https://github.com/iva-stasia/kottans-frontend/blob/main/task_js_basics/basic_algorithm_scripting.png)
+
+[Functional Programming](https://github.com/iva-stasia/kottans-frontend/blob/main/task_js_basics/functional_programming.png)
+
+[Algorithm Scripting Challenges](https://github.com/iva-stasia/kottans-frontend/blob/main/task_js_basics/algorithm_scripting.png)
+
+*At first, it was pretty hard. It took a while to get used to the syntax. Therefore, in addition, I took a basic JS course on Codecademy, as it seemed to me much easier. But when I did the exercises at FreeCodeCamp it was very exciting. The most pleasant thing in JS is the ability to solve problems in different ways and find solutions. The most interesting exercises were in Intermediate Algorithm Scripting. I don't yet know how to combine this knowledge with the previous ones, so I'm very interested in starting the next task.*
