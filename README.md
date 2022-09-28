@@ -17,6 +17,7 @@
    *I had never studied programming before so everything was new and sometimes not clear. But additional materials and a little time helped to absorb the information.*
 
 ___
+
 ## 1. Linux CLI and HTTP
 
 ### **Linux Survival (4 modules)**
@@ -34,6 +35,7 @@ ___
  *Articles about HTTP were quite difficult due to the many new terms. So I had to look for additional information all the time. Everything became a little clearer, but I still plan to return to this to understand better.*
 
  ___
+ 
 ## 2. Git Collaboration
 
 ### **Introduction to Git and GitHub**
@@ -53,6 +55,7 @@ ___
 *After completing the course and studying additional materials, the exercises seemed quite understandable and interesting.*
 
 ___
+
 ## 3. Intro to HTML and CSS
 
 ### **Course HTML, CSS, and Javascript for Web Developers**
@@ -71,6 +74,7 @@ ___
 *Taking courses on Codecademy was much more interesting than just listening to lectures. A big plus of this format is the visibility of changes. Sometimes it was quite boring because of the simplicity of the exercises. Now I feel the need to consolidate the acquired knowledge on more complex practical tasks.*
 
 ___
+
 ## 4. Responsive Web Design
 
 ### **Flexbox**
@@ -86,6 +90,7 @@ ___
 *Grid was easier to understand than Flexbox for me. Although I still use the cheatsheet, because I couldn't remember all the available options, especially the short forms. Now I remember only the most basic ones. I will watch the rest as needed.\
 At this step, I also decided to practice on Freecodecamp both in Grid and Flex and in CSS in general. After that, I was able to start the popup task and already used the knowledge gained there.*
 ___
+
 ## 5. HTML & CSS Practice
 
 [Demo](https://iva-stasia.github.io/html-css-popup/) | [Code base](https://github.com/iva-stasia/html-css-popup)
@@ -93,6 +98,7 @@ ___
 *This is my first HTML and CSS project.\
 The most valuable thing for me is the experience of solving the problems that I encountered while completing the task.*
 ___
+
 ## 6. JS Basics
 
 ### **Introduction to JS**
@@ -116,3 +122,31 @@ ___
 [Algorithm Scripting Challenges](https://github.com/iva-stasia/kottans-frontend/blob/main/task_js_basics/algorithm_scripting.png)
 
 *At first, it was pretty hard. It took a while to get used to the syntax. Therefore, in addition, I took a basic JS course on Codecademy, as it seemed to me much easier. But when I did the exercises at FreeCodeCamp it was very exciting. The most pleasant thing in JS is the ability to solve problems in different ways and find solutions. The most interesting exercises were in Intermediate Algorithm Scripting. I don't yet know how to combine this knowledge with the previous ones, so I'm very interested in starting the next task.*
+___
+
+## 7. DOM
+
+[Demo](https://iva-stasia.github.io/js-dom/) | [Code base](https://github.com/iva-stasia/js-dom)
+
+### **FreeCodeCamp exercises**
+
+[Algorithm Scripting Challenges](https://github.com/iva-stasia/kottans-frontend/blob/main/task_js_dom/algorithm_scripting_2.png)
+
+### **Document Object Model Manipulation Coursera**
+
+[Document Object Model Manipulation](https://github.com/iva-stasia/kottans-frontend/blob/main/task_js_dom/coursera_dom_manipulation.png)
+___
+
+## 8. Building a Tiny JS World
+
+[Demo](https://iva-stasia.github.io/a-tiny-JS-world/) | [Code base](https://github.com/iva-stasia/a-tiny-JS-world)
+___
+
+## 9. Object Oriented JS
+
+[Demo](https://iva-stasia.github.io/frontend-nanodegree-arcade-game/) | [Code base](https://github.com/iva-stasia/frontend-nanodegree-arcade-game)
+
+### **Codewars**
+
+[Codewars Progress](https://github.com/iva-stasia/kottans-frontend/blob/main/task_js_oop/codewars.png)
+___
