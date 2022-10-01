@@ -148,5 +148,5 @@ ___
 
 ### **Codewars**
 
-[Codewars Progress](https://github.com/iva-stasia/kottans-frontend/blob/main/task_js_oop/codewars.png)
+[Codewars Progress](https://www.codewars.com/users/iva-stasia/badges/large)
 ___
